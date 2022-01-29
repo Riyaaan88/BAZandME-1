@@ -1,0 +1,114 @@
+{
+  "burger":{
+  "price":100,
+  "description":"EAT!",
+  "aliases":["beast burger"],
+  "emoji":":hamburger:",
+    "nfs":false
+  },
+  "ifone 69":{
+  "price":10000,
+  "description":"pre installed with AmogOS",
+    "aliases":["apple"],
+    "emoji":"<:fone:920692749152452660>",
+    "nfs":false
+  },
+  "pc":{
+  "price":100000,
+  "description":"Still running Windows 98 <:oldwin:919541654921281586>",
+    "aliases":["gaming god", "gamer"],
+    "emoji":"<:pc:920010113799053343>",
+    "nfs":false
+  },
+  "amogus ps5":{
+    "price":200000,
+    "description":"sussy ps5!!1",
+    "aliases":["playstation", "ps5"],
+    "emoji":"<:ps5:920007986250928189>",
+    "nfs":false
+  },
+  "bts meal":{
+  "price":1000,
+  "description":"eat some more just a bit",
+    "aliases":["happy meal"],
+    "emoji":"<:happymeal:920010809109803038>",
+    "nfs":false
+  },
+  "robux":{
+  "price":10000,
+  "description":"ultimate flex 10101",
+    "aliases":["robux", "drip"],
+    "emoji":"<:robux:920010988470804573>",
+    "nfs":false
+  },
+  "pepsi":{
+    "price":5000,
+    "description":"PEPSI MANNNNN!!111!",
+    "aliases":["coke"],
+     "emoji":"<:pepsi:920011284982927400>",
+    "nfs":false
+  },
+  "vodka":{
+    "price":100,
+    "description":"the blood of soviet russia",
+    "aliases":["alchy hole"],
+    "emoji":"<:vodka:920596181292310528>",
+    "nfs":false
+  },
+  "dildo":{
+    "price":10,
+    "description":"found it in ur mom's draw",
+    "aliases":["penis"],
+    "emoji":"🍆",
+    "nfs":false
+  },
+  "bitcoin":{
+    "price":63630,
+    "description":"if someone says for you to give them bitcoin, then its likely a scam",
+    "aliases":["btc"],
+    "emoji":":coin:",
+    "nfs":false
+  },
+  "cigs":{
+    "price":9999999999,
+    "description":"addicted? yeh i see",
+    "aliases":["smokes", "smoke"],
+    "emoji":":smoking:",
+    "nfs":false
+  },
+  "fishing rod":{
+  "description":"fish to get the goods",
+  "price":10000,
+  "aliases":["rod", "fishing"],
+  "emoji":":fishing_pole_and_fish:",
+    "nfs":false
+},
+ "shovel":{
+  "description":"allows you to use the dig command",
+  "price":100000,
+  "aliases":["bow", "arrow"],
+  "emoji":"<:shovel:920008571444408341>",
+    "nfs":false
+},
+  "note":{
+    "description":"using this will give you extra room in your bank account!",
+    "price":100000,
+    "aliases":["bank", "banknote", "bank note", "notes"],
+    "emoji":"<:note:923587342080553040>",
+    "nfs":false
+  },
+  "daddy fish":{
+    "description":"Catch this item with your fishing rod!\nMaybe this is how you lost your dad :face_with_raised_eyebrow:",
+    "price":500,
+    "aliases":["dad", "daddy"],
+    "emoji":"<:daddyfish:926855092467007490>",
+    "nfs":true
+  },
+  "mummy fish":{
+    "description":"Catch this item with your fishing rod!",
+    "price":500,
+    "aliases":["mum", "mummy"],
+    "emoji":"null",
+    "nfs":true
+  }
+}
